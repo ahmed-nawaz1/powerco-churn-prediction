@@ -8,7 +8,7 @@ from powerco.config import DEFAULT_JOBS, RUNS_DIR
 
 
 def main() -> int:
-    """Create a new run, execute all    seven stages and   save   the   evidence."""
+    """Create a new run, execute all    seven   stages and   save   the   evidence."""
 
     run_id = datetime.now(ZoneInfo("Asia/Karachi")).strftime("%Y%m%d_%H%M%S_%f")
     workflow.run(RUNS_DIR / run_id, jobs=DEFAULT_JOBS)
