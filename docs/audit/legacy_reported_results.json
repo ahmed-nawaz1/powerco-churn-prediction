@@ -1,0 +1,10 @@
+{
+  "provenance": "User-supplied earlier console results; saved execution evidence not found; not independently verified",
+  "logistic_cv_f1": 0.2303,
+  "random_forest_cv_f1": 0.2683,
+  "gradient_boosting_cv_f1": 0.0407,
+  "tuned_random_forest_cv_f1": 0.2782,
+  "tuned_random_forest_test_f1": 0.3000,
+  "tuned_train_validation_f1": [0.6153, 0.2782],
+  "simpler_train_validation_f1": [0.2986, 0.2517]
+}

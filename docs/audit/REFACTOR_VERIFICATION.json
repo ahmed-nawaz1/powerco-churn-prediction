@@ -1,0 +1,19 @@
+{
+  "cv_metric_equivalence": "PASS",
+  "identical_split_and_folds": "PASS",
+  "test_metric_equivalence": "PASS",
+  "prediction_equivalence": "PASS",
+  "full_command": "run.ps1",
+  "new_run": "artifacts\\runs\\20261117_234639_854637",
+  "unit_tests_passed": 8,
+  "ruff_static_checks": "PASS",
+  "ruff_format_check": "PASS",
+  "no_retraining_status_command": "PASS - CURRENT_SOURCE verified",
+  "saved_model_inference": "PASS",
+  "inference_rows": 14606,
+  "inference_flagged": 3950,
+  "report_body_words": 2335,
+  "report_extractable_words": 2983,
+  "report_pages_visually_reviewed": 7,
+  "report_layout_review": "PASS"
+}
